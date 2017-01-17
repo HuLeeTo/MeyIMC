@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 //Llamada a la ventana de rangos con imagen
+                //ResultadoIMC muestra_resultado = ResultadoIMC();
 
             }
         });
